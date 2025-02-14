@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://github.com/francorz/francorz/blob/main/src/FeelsDonkMan.png?raw=true" width="40px" style="vertical-align: middle;"/>
+  <img src="https://github.com/francorz/francorz/blob/main/src/FeelsDonkMan.avif?raw=true" width="40px" style="vertical-align: middle;"/>
   Donk stats
 </h2>
 <p align="center">
