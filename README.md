@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://github.com/francorz/francorz/blob/main/src/FeelsOkayMan.png?raw=true" width="40px" style="vertical-align: middle;"/>
-  👋 Hi there!
+<h1 align="left">
+  <img src="https://github.com/francorz/francorz/blob/main/src/FeelsOkayMan.png?raw=true" width="35px" style="vertical-align: middle;"/>👋 Hi there!
 </h1>
 
 <h2 align="center">💻 Programming Languages (learning)</h2>
@@ -13,10 +12,14 @@
 </p>
 
 <h2 align="center">
-  <img src="https://github.com/francorz/francorz/blob/main/src/FeelsDonkMan.avif?raw=true" width="40px" style="vertical-align: middle;"/>
-  Donk stats
+  <img src="https://github.com/francorz/francorz/blob/main/src/FeelsDonkMan.avif?raw=true" width="25px" style="vertical-align: middle;"/>👇Donk stats
 </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=francorz&show_icons=true&theme=gruvbox" width="55%"/>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=francorenzo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="18%"/>
 </p>
+
+<h3 align="center">
+  <img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/3.0" width="30px" style="vertical-align: middle;"/>
+  <img src="https://profile-counter.glitch.me/francorz/count.svg"/>
+</h3>
