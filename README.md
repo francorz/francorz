@@ -15,7 +15,7 @@
   <img src="https://github.com/francorz/francorz/blob/main/src/FeelsDonkMan.avif?raw=true" width="25px" style="vertical-align: middle;"/>👇Donk stats
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francorz&show_icons=true&theme=gruvbox" width="55%"/>
+  <img src="https://github-readme-stats-francorzs-projects.vercel.app/api?username=francorz&show_icons=true&theme=gruvbox" width="55%"/>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=francorenzo&cover_image=true&theme=default&show_offline=true&background_color=282828&interchange=true&bar_color=e7ae2c&bar_color_cover=true" width="18%"/>
 </p>
 
