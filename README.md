@@ -21,5 +21,5 @@
 
 <h3 align="center">
   <img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/3.0" width="30px" style="vertical-align: middle;"/>
-  <img src="https://profile-counter.glitch.me/francorz/count.svg"/>
+  <img src="https://profile-counter.francorz.deno.net/francorz/count.svg"/>
 </h3>
